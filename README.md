@@ -17,3 +17,14 @@ The game ends when you guess the correct hidden word within 6 attempts.
 The rule of the **Wordle** game still applies, however, this time, you face a computer that can also make guesses. As you play the game, after every guess you have made, the computer reveals to you the guess it has made. The catch is, the computer does not reveal to you the letters it has entered, but the game tells you how accurate the computer's guess is, using the colors.
 
 You lose when you have not guessed the correct word and the computer has already finished the game with its correct guess. Just like you, however, the computer is not always winning, and might lose the game.
+
+## Python Version
+
+The `.ipynb` notebook has been tested running with Python 3.7 and Python 3.10.2.
+
+## Play
+
+1. Execute all cells.
+2. Leave the cursor on the left side's canvas (the user's field).
+3. Play the game.
+4. Re-run the last cell if you want to play again.
